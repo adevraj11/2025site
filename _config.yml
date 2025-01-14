@@ -44,16 +44,16 @@ email: adevraj@rgu.ac
 authors:
   johndoe:
     name: Ayushman Devraj
-    bio: Dreamer
+    bio: false
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: 
+    twitter: false
   jamesfoster:
     name: Ayushman Devraj
-    bio: Dreamer
+    bio: false
     external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    picture: assets/images/profile.jpg
+    twitter: false
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
