@@ -8,8 +8,8 @@ headerImage: false
 projects: true
 hidden: true
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
-category: project
-author: johndoe
+category: blog
+author: ayushmandevraj
 externalLink: false
 ---
 
