@@ -17,7 +17,8 @@ description: A list of books I read in 2025
 
 # #1
 ### <i>The Golden Road</i> by William Dalrymple <br/>
-Current read. <br/>
+Non-fiction | Hardcover 
+> Current read. <br/>
 
 ______
 
