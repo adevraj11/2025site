@@ -4,42 +4,32 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		<div class="about">
+			<h1>About</h1>
+			<p>Well - I'm an ardent politics buff, frustrated lover of literature, tech geek, die-hard quizzer, Formula 1 fanatic, and a hard rock fan. <br> <br>In the immortal words Popeye the Sailor Man -- "I yam what I yam and that's all what I yam"</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			<h1>Background</h1>
+			<p class="text-justify">At present, I am working as an Assistant Professor of English at Royal Global University, Guwahati where I am also the Assistant Dean of Student Affairs and Coordinator for Value Added Courses.  
+  I am also reading for a PhD from Gauhati University with a dissertation focused on Post-Soviet Immigration Literature. The title of my dissertation is - "Hybrid Cultures, Plural Identities: (De)Constructing the Hyphen in Contemporary Russian-American Literature".</p> 
 
-<h2>Skills</h2>
+<p class="text-justify">Prior to this, I did my BA and MA in English from Tezpur University, Assam.</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+<h1>Recent Awards/Fellowships</h1>
 
-<h2>Projects</h2>
+<h4 class="western">Sahapedia-UNESCO Fellowship, 2020</h4>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+ <p> Details about Sahapedia and the fellowship can be found <a href="https://www.sahapedia.org/sahapedia-unesco-fellowship-2020">here</a>. As part of the fellowship, I authored two articles and conducted an interview, which can be read here - <a href="https://map.sahapedia.org/article/What-Assamese-Nationalism-Owes-to-Bishnuprasad-Rabha:-A-Journey-Through-His-Lyric-Poems-/11408#:~:text=Ayushman%20Devraj%20is%20an%20Assistant,on%20Post%2DSoviet%20immigration%20narratives.">article 1</a>, <a href="https://map.sahapedia.org/article/The-Making-of-a-Cultural-Icon:-Bishnuprasad-Rabha-in-Assamese-National-Consciousness/11406">article 2</a>, and <a href="https://map.sahapedia.org/article/In-Conversation-with-Prof.-Pradip-Jyoti-Mahanta:-Bishnuprasad-Rabha’s-Works-Exude-His-Revolutionary-Spirit-/11407">the interview.</a> </p>
+		</div>
+
+<h1> Contact</h1>
+<p>	
+<h4>Current Mailing Address</h4>
+<p class="text-justify">G-205 <br>
+Deptartment of English, Royal School of Languages <br>
+The Assam Royal Global University, Guwahati<br>
+Assam, India <br>
+PIN- 781035 <br> </p>
+
+<h4>Email</h4>
+<p class="text-justify"> Work&#58; adevraj [AT] rgu [DOT] ac<br>
+Personal&#58; ayushman [AT] hotmail [DOT] co [DOT] in </p>
