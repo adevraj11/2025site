@@ -2,7 +2,6 @@
 title: "Happy New Year"
 layout: post
 date: 2025-01-01 22:48
-image: /assets/images/james.jpg
 headerImage: false
 tag:
 - test
