@@ -16,13 +16,13 @@ description: A list of books I read in 2025
 ---
 
 # #1
-## <i>The Golden Road</i> by William Dalrymple <br/>
+### <i>The Golden Road</i> by William Dalrymple <br/>
 Current read. <br/>
 
 ______
 
 
-## #2
+# #2
 ### <i>The Little Book of Comfort</i> by Ruskin Bond <br/>
 Non-fiction | Hardcover 
 > Ruskin Bond’s <i>The Little Book of Comfort</i> is like a warm hug on a rainy day—simple, thoughtful, and brimming with wisdom. Perfect for moments when life feels overwhelming. <br/>
