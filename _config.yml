@@ -44,16 +44,16 @@ email: adevraj@rgu.ac
 authors:
   ayushmandevraj:
     name: Ayushman Devraj
-    bio: false
-    external-image: false
+    bio: 
+    external-image: 
     picture: assets/images/profile.jpg
-    twitter: false
+    twitter: 
   jamesfoster:
     name: Ayushman Devraj
-    bio: false
-    external-image: false
+    bio: 
+    external-image: 
     picture: assets/images/profile.jpg
-    twitter: false
+    twitter: 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
