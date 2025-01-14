@@ -15,15 +15,15 @@ description: A list of books I read in 2025
 
 ---
 
-## #1
-#### <i>The Golden Road</i> by William Dalrymple <br/>
+# #1
+## <i>The Golden Road</i> by William Dalrymple <br/>
 Currently reading. <br/>
 
 ______
 
 
-## #2
-#### <i>The Little Book of Comfort</i> by Ruskin Bond <br/>
+# #2
+## <i>The Little Book of Comfort</i> by Ruskin Bond <br/>
 Currently reading. <br/>
 
 ______
