@@ -1,1 +1,17 @@
+---
+title: "2025: A Year in Books"
+layout: post
+date: 2025-01-14 01:01
+image: 
+headerImage: false
+tag:
+- books
+- reading
+category: blog
+author: ayushmandevraj
+description: A list of books I read in 2025
+---
+#### This year, I’m trying something new — recording all the books I read in 2025 here on my blog. I’ll list the titles, write short reviews (30 words or less), and mention whether I would recommend them. Last year, I read 67 books and jotted down my thoughts in my diary. There is something special about taking out my journal, grabbing my favorite fountain pen, and letting my thoughts flow onto paper. But hey, no harm in giving this digital version a shot, right? Let’s see if I can keep it up!
 
+# Book #1
+> <i>The Golden Road</i> by William Dalrymple 
