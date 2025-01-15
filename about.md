@@ -32,6 +32,10 @@ PIN- 781035 <br> </p>
 <p class="text-justify"> Work&#58; adevraj [AT] rgu [DOT] ac<br>
 Personal&#58; ayushman [AT] devraj [DOT] net [DOT] in </p>
 
+---
+
+<h4>Curriculum Vitae</h4>
+
 Click <a href="https://raw.githubusercontent.com/adevraj11/2025site/c81e8a697bcf479b3a54d26036054b23307bdc75/assets/docs/CV2025.pdf" target="_blank">here</a> to download my updated CV. 
 
 
