@@ -26,6 +26,6 @@ ______
 # #2
 ### <i>The Little Book of Comfort</i> by Ruskin Bond <br/>
 Non-fiction | Hardcover 
-> Ruskin Bond’s <i>The Little Book of Comfort</i> is like a warm hug on a rainy day—simple, thoughtful, and brimming with wisdom. Perfect for moments when life feels overwhelming. <br/>
+> Ruskin Bond’s <i>The Little Book of Comfort</i> is like a warm cup of tea on a winter morning — simple, thoughtful, and brimming with wisdom. Perfect for moments when life feels overwhelming. <br/>
 
 ______
