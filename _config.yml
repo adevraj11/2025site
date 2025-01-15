@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvDa10slUflOW8pyXMPvy4iBvSgJxHsyUj0g&s
-picture: true
+external-image: false
+picture: assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
