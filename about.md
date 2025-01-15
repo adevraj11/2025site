@@ -42,6 +42,6 @@ Personal&#58; ayushman [AT] devraj [DOT] net [DOT] in </p>
 ---
 
 
-Click <a href="h[ttps://github.com/adevraj11/2025site/blob/c81e8a697bcf479b3a54d26036054b23307bdc75/assets/docs/CV2025.pdf" target="_blank](https://raw.githubusercontent.com/adevraj11/2025site/c81e8a697bcf479b3a54d26036054b23307bdc75/assets/docs/CV2025.pdf)">here</a> to download my updated CV. 
+Click <a href="h[(https://raw.githubusercontent.com/adevraj11/2025site/c81e8a697bcf479b3a54d26036054b23307bdc75/assets/docs/CV2025.pdf)">here</a> to download my updated CV. 
 
 
