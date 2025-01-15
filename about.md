@@ -31,4 +31,4 @@ PIN- 781035 <br> </p>
 
 <h4>Email</h4>
 <p class="text-justify"> Work&#58; adevraj [AT] rgu [DOT] ac<br>
-Personal&#58; ayushman [AT] hotmail [DOT] co [DOT] in </p>
+Personal&#58; ayushman [AT] devraj [DOT] net [DOT] in </p>
