@@ -15,4 +15,4 @@ Here, you can explore my academic journey, research interests, and professional 
 
 ---
 
-Doctoral Research 
+### Doctoral Research 
