@@ -6,7 +6,7 @@ layout: page
 # RGU/2025/Even Semester
 
 
-## Courses I teach:
+## Courses taught:
 
 <table style="border: 1px solid black; border-collapse: collapse;">
   <tr>
@@ -26,6 +26,7 @@ layout: page
   </tr>
 </table>
 
+In addition to the aforementioned course, I am also actively supervising five MA English 4th semester students who are currently working on their master's dissertations. 
 
 ---
 
