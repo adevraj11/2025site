@@ -14,10 +14,8 @@ Here, you can explore my academic journey, research interests, and professional 
 
 ---
 
-### Royal Global University
-
-[Even Semester, 2025](/pages/rgu-2025-even)
-
----
-
-### Doctoral Research 
+| Name      | Age | City       |
+|-----------|-----|------------|
+| John      | 25  | New York   |
+| Alice     | 30  | Los Angeles|
+| Bob       | 22  | Chicago    |
