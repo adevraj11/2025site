@@ -9,5 +9,10 @@ Here, you can explore my academic journey, research interests, and professional 
 
 ---
 
-### [Royal Global University](/pages/rgu)
+### Royal Global University
 
+[Even Semester, 2025](/pages/rgu-2025-even)
+
+---
+
+Doctoral Research 
