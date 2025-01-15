@@ -1,5 +1,5 @@
 ---
-title: About
+title: Academia
 layout: page
 ---
 
