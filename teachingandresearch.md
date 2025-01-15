@@ -9,5 +9,5 @@ Here, you can explore my academic journey, research interests, and professional 
 
 ---
 
-# [Royal Global University](/pages/rgu)
+### [Royal Global University](/pages/rgu)
 
