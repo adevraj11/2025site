@@ -22,6 +22,14 @@
             {% endif %}
         {% endif %}
 
+          {% if site.blog == true %}
+            {% if page.title != "Teaching + Research" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/teachingandresearch">Teaching + Research</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
         {% if site.resume == true %}
             <li class="item">
                 <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">resume</a>
