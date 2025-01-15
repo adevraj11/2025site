@@ -3,6 +3,9 @@ title: Royal Global University
 layout: page
 ---
 
+# Royal Global University | Even Semester, 2025
+
+
 ## Courses I teach:
 
 | Course Title    | Credits | Semester |
