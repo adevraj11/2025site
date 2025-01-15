@@ -3,7 +3,7 @@ title: Royal Global University
 layout: page
 ---
 
-# Royal Global University | Even Semester, 2025
+# RGU/2025/Even Semester
 
 
 ## Courses I teach:
