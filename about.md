@@ -34,7 +34,7 @@ Personal&#58; ayushman [AT] devraj [DOT] net [DOT] in </p>
 
 ---
 
-<h4>Curriculum Vitae</h4>
+<h1>Curriculum Vitae</h1>
 
 Click <a href="https://raw.githubusercontent.com/adevraj11/2025site/c81e8a697bcf479b3a54d26036054b23307bdc75/assets/docs/CV2025.pdf" target="_blank">here</a> to download my updated CV. 
 
