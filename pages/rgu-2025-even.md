@@ -24,25 +24,26 @@ Here, you can explore my academic journey, research interests, and professional 
 | Bob       | 22  | Chicago    |
 
 
-<table>
+<table style="border: 1px solid black; border-collapse: collapse;">
   <tr>
-    <th>Name</th>
-    <th>Age</th>
-    <th>City</th>
+    <th style="border: 1px solid black; padding: 8px;">Name</th>
+    <th style="border: 1px solid black; padding: 8px;">Age</th>
+    <th style="border: 1px solid black; padding: 8px;">City</th>
   </tr>
   <tr>
-    <td>John</td>
-    <td>25</td>
-    <td>New York</td>
+    <td style="border: 1px solid black; padding: 8px;">John</td>
+    <td style="border: 1px solid black; padding: 8px;">25</td>
+    <td style="border: 1px solid black; padding: 8px;">New York</td>
   </tr>
   <tr>
-    <td>Alice</td>
-    <td>30</td>
-    <td>Los Angeles</td>
+    <td style="border: 1px solid black; padding: 8px;">Alice</td>
+    <td style="border: 1px solid black; padding: 8px;">30</td>
+    <td style="border: 1px solid black; padding: 8px;">Los Angeles</td>
   </tr>
   <tr>
-    <td>Bob</td>
-    <td>22</td>
-    <td>Chicago</td>
+    <td style="border: 1px solid black; padding: 8px;">Bob</td>
+    <td style="border: 1px solid black; padding: 8px;">22</td>
+    <td style="border: 1px solid black; padding: 8px;">Chicago</td>
   </tr>
 </table>
+
