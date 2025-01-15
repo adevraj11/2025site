@@ -1,1 +1,4 @@
-
+---
+title: Academia
+layout: page
+---
