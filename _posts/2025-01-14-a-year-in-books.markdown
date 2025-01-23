@@ -31,3 +31,13 @@ Non-fiction | Hardcover
 [Non-Fiction](/about) 
 
 ______
+
+
+# #3
+### <i>My Name is Gauhar Jaan: The Life and Times of a Musician</i> by Vikram Sampath <br/>
+Non-fiction | Ebook 
+> Current read.
+
+[Non-Fiction](/about) 
+
+______
