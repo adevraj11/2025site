@@ -3,7 +3,7 @@ title: Royal Global University
 layout: page
 ---
 
-# RGU/2025/Even Semester
+# Autumn Semester, 2025
 
 
 ## Courses taught:
@@ -15,18 +15,16 @@ layout: page
     <th style="border: 1px solid black; padding: 8px;">Semester</th>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;">Indian Writing in English</td>
-    <td style="border: 1px solid black; padding: 8px;">04</td>
-    <td style="border: 1px solid black; padding: 8px;">B.A. (H) English, 6th semester</td>
+    <td style="border: 1px solid black; padding: 8px;">To Be Updated</td>
+    <td style="border: 1px solid black; padding: 8px;">To Be Updated</td>
+    <td style="border: 1px solid black; padding: 8px;">To Be Updated</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;">English Fiction</td>
-    <td style="border: 1px solid black; padding: 8px;">04</td>
-    <td style="border: 1px solid black; padding: 8px;">MA English</td>
+    <td style="border: 1px solid black; padding: 8px;">To Be Updated</td>
+    <td style="border: 1px solid black; padding: 8px;">To Be Updated</td>
+    <td style="border: 1px solid black; padding: 8px;">To Be Updated</td>
   </tr>
-</table>
-
-In addition to the aforementioned course, I am also actively supervising five MA English 4th semester students who are currently working on their master's dissertations. 
+</table> 
 
 ---
 

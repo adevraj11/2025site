@@ -34,6 +34,6 @@ Personal&#58; ayushman [AT] devraj [DOT] net [DOT] in </p>
 
 <h1>Curriculum Vitae</h1>
 
-Click <a href="https://raw.githubusercontent.com/adevraj11/2025site/gh-pages/assets/docs/CV2025.pdf" target="_blank">here</a> to download my current CV. 
+Click <a href="https://rgu.ac/faculty-languages" target="_blank">here</a> to download my current CV. 
 
 
