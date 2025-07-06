@@ -4,11 +4,11 @@ layout: page
 ---
 
 <h1>About</h1>
-<p>Well - I'm an ardent politics buff, frustrated lover of literature, tech geek, die-hard quizzer, Formula 1 fanatic, and a hard rock fan. <br> <br>In the immortal words Popeye the Sailor Man -- "I yam what I yam and that's all what I yam"</p>
+<p>Well - I'm an ardent politics buff, frustrated lover of literature, tech geek, die-hard quizzer, Formula 1 fanatic, and a hard rock fan. <br> <br>As Popeye the Sailor Man once declared, with admirable self-awareness: "I yam what I yam and that's all what I yam"</p>
 
 <h1>Background</h1>
 <p class="text-justify">At present, I am working as an Assistant Professor of English at Royal Global University, Guwahati where I am also the Assistant Dean of Student Affairs and Coordinator for Value Added Courses.  
-  I am also reading for a PhD from Gauhati University with a dissertation focused on Post-Soviet Immigration Literature. The title of my dissertation is - "Hybrid Cultures, Plural Identities: (De)Constructing the Hyphen in Contemporary Russian-American Literature".</p> 
+  I am also reading for a PhD from Gauhati University with a dissertation focused on Post-Soviet Immigration Literature. The title of my dissertation is - "Hybrid Texts, Plural Identities: (De)Constructing the Hyphen in Contemporary Russian-American Literature".</p> 
 
 <p class="text-justify">Prior to this, I did my BA and MA in English from Tezpur University, Assam.</p>
 
