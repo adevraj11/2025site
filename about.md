@@ -22,7 +22,7 @@ layout: page
 <h1> Contact</h1>
 <p>	
 <h4>Current Mailing Address</h4>
-<p class="text-justify">G-205 <br>
+<p class="text-justify">Faculty Office #1, Block-G, 7th Floor <br>
 Deptartment of English, Royal School of Languages <br>
 The Assam Royal Global University, Guwahati<br>
 Assam, India <br>
