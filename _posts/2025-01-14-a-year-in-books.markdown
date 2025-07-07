@@ -14,6 +14,12 @@ description: A list of books I read in 2025
 This year, I’m trying something new — keeping track of all the books I read in 2025 here on the blog. Last year, I read 67 books and scribbled my thoughts in a diary. There’s something nice about sitting down with my journal, my favourite pen and just letting the words come. But I figured, why not give the digital version a shot? Let’s see if I can stick with it!
 
 ---
+<ul>
+  <li> <i>The Golden Road</i> by William Dalrymple (5/5) </li>
+    <li> <i>The Little Book of Comfort</i> by Ruskin Bond(5/5) </li>
+    <li> <i>My Name is Gauhar Jaan: The Life and Times of a Musician</i> by Vikram Sampath (4/5) </li>
+</ul>
+
 
 # #1
 ### <i>The Golden Road</i> by William Dalrymple <br/>
