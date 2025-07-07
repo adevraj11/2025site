@@ -11,7 +11,7 @@ category: blog
 author: ayushmandevraj
 description: A list of books I read in 2025
 ---
-<span style="color: crimson; font-weight: bold;" Starting this year, I plan to record every book I read here on the blog. I read 67 books in 2024 — let’s see if I can keep it going. </span>
+<span style="color: crimson; font-weight: bold;"> Starting this year, I plan to record every book I read here on the blog. I read 67 books in 2024 — let’s see if I can keep it going. </span>
 
 ---
 
