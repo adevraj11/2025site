@@ -14,6 +14,7 @@ description: A list of books I read in 2025
 **This year, I want to record every book I read in 2025 here on the blog. I read 67 books in 2024. Let’s see if I can keep it going.**
 
 ---
+
 <strong>
   <ol>
     <li><em>The Golden Road</em> by William Dalrymple (5/5)</li>
