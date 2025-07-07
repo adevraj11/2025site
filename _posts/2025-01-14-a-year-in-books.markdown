@@ -11,37 +11,13 @@ category: blog
 author: ayushmandevraj
 description: A list of books I read in 2025
 ---
-**This year, I’m trying something new — keeping track of all the books I read in 2025 here on the blog. Last year, I read 67 books and scribbled my thoughts in a diary. There’s something nice about sitting down with my journal, my favourite pen and just letting the words come. But I figured, why not give the digital version a shot? Let’s see if I can stick with it!**
+**This year, I’m doing something different — recording every book I read in 2025 here on the blog. In 2024, I made my way through 67 books. Let’s see if I can keep this going.**
 
 ---
-<ol>
-  <li> <i>The Golden Road</i> by William Dalrymple (5/5) </li>
-    <li> <i>The Little Book of Comfort</i> by Ruskin Bond (5/5) </li>
-    <li> <i>My Name is Gauhar Jaan: The Life and Times of a Musician</i> by Vikram Sampath (4/5) </li>**
-</ol>
-
-<ol>
-  <li><em><strong>The Golden Road</strong></em> by William Dalrymple (<strong>5/5</strong>)</li>
-  <li><em><strong>The Little Book of Comfort</strong></em> by Ruskin Bond (<strong>5/5</strong>)</li>
-  <li><em><strong>My Name is Gauhar Jaan: The Life and Times of a Musician</strong></em> by Vikram Sampath (<strong>4/5</strong>)</li>
-</ol>
-
-
-
-# #1
-### <i>The Golden Road</i> by William Dalrymple <br/>
-Non-fiction | Hardcover | 5/5 
-______
-
-
-# #2
-### <i>The Little Book of Comfort</i> by Ruskin Bond <br/>
-Non-fiction | Hardcover 5/5
-
-______
-
-
-# #3
-### <i>My Name is Gauhar Jaan: The Life and Times of a Musician</i> by Vikram Sampath <br/>
-Non-fiction | Ebook | 4.5/5
-> Current read.
+<strong>
+  <ol>
+    <li><em>The Golden Road</em> by William Dalrymple (5/5)</li>
+    <li><em>The Little Book of Comfort</em> by Ruskin Bond (5/5)</li>
+    <li><em>My Name is Gauhar Jaan: The Life and Times of a Musician</em> by Vikram Sampath (4/5)</li>
+  </ol>
+</strong>
