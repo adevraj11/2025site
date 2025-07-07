@@ -20,3 +20,8 @@ description: A list of books I read in 2025
   <li><em>The Little Book of Comfort</em> by Ruskin Bond (5/5)</li>
   <li><em>My Name is Gauhar Jaan: The Life and Times of a Musician</em> by Vikram Sampath (4/5)</li>
 </ol>
+
+**3.** *The Golden Road* by William Dalrymple (**5/5**)  
+**2.** *The Little Book of Comfort* by Ruskin Bond (**5/5**)  
+**1.** *My Name is Gauhar Jaan: The Life and Times of a Musician* by Vikram Sampath (**4/5**)
+
