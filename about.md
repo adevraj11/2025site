@@ -12,7 +12,7 @@ layout: page
 
 <p class="text-justify">Prior to this, I did my BA and MA in English from Tezpur University, Assam.</p>
 
-<h1>Recent Awards/Fellowships</h1>
+<h1>Awards/Fellowships</h1>
 
 <h4 class="western">Sahapedia-UNESCO Fellowship, 2020</h4>
 
