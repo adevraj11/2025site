@@ -4,7 +4,7 @@ layout: page
 ---
 
 <h1>About</h1>
-<p>Well - I'm an ardent politics buff, frustrated lover of literature, tech geek, die-hard quizzer, Formula 1 fanatic, and a hard rock fan. <br> <br>As Popeye the Sailor Man once declared, with admirable self-awareness: "I yam what I yam and that's all what I yam"</p>
+<p>An ardent politics buff, frustrated lover of literature, tech geek, die-hard quizzer, Formula 1 fanatic, and a hard rock fan. <br> <br>As Popeye the Sailor Man once declared, with admirable self-awareness: "I yam what I yam and that's all what I yam"</p>
 
 <h1>Background</h1>
 <p class="text-justify">At present, I am working as an Assistant Professor of English at Royal Global University, Guwahati where I am also the Assistant Dean of Student Affairs and Coordinator for Value Added Courses.  
@@ -34,6 +34,6 @@ Personal&#58; ayushman [AT] devraj [DOT] net [DOT] in </p>
 
 <h1>Curriculum Vitae</h1>
 
-Click <a href="https://rgu.ac/faculty-languages" target="_blank">here</a> to view my current CV. 
+Click <a href="https://www.rgu.ac/faculty-ayushman-devra" target="_blank">here</a> to view my current CV. 
 
 
