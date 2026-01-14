@@ -1,7 +1,7 @@
 ---
 title: "2025: Things I Liked This Year"
 layout: post
-date: 2025-12-31 22:44
+date: 2025-12-30 12:44
 headerImage: false
 tag:
   - lists
