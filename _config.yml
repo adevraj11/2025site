@@ -99,12 +99,6 @@ plugins:
   - jekyll-feed
   - jemoji
 
-compress_html:
-  ignore:
-    envs:
-      - development
-      - stage
-
 exclude:
   - README.md
   - Gemfile
