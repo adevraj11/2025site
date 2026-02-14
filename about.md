@@ -8,7 +8,7 @@ layout: page
 
 <h1>Background</h1>
 <p class="text-justify">At present, I am working as an Assistant Professor of English at Royal Global University, Guwahati where I am also the Assistant Dean of Student Affairs and Coordinator for Value Added Courses.  
-  I hold a PhD from Gauhati University. My doctoral research focused on Post-Soviet immigration literature, with a dissertation titled *Hybrid Cultures, Plural Identities: Deconstructing the Hyphen in Contemporary Russian-American Literature.*</p> 
+  I hold a PhD from Gauhati University. My doctoral research focused on Post-Soviet immigration literature, with a dissertation titled _Hybrid Cultures, Plural Identities: Deconstructing the Hyphen in Contemporary Russian-American Literature._</p> 
 
 <p class="text-justify">Prior to this, I did my BA and MA in English from Tezpur University, Assam.</p>
 
