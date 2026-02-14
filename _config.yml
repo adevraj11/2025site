@@ -1,5 +1,5 @@
 # main text of home
-title: ayushman devraj, ph.d.
+title: ayushman devraj, phd
 bio: personal homepage
 
 # twitter summary info
@@ -108,10 +108,8 @@ compress_html:
       - stage
 
 exclude:
-  [
-    "README.md",
-    "Gemfile",
-    "Gemfile.lock",
-    "FAQ.md",
-    "vendor",
-  ]
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - FAQ.md
+  - vendor
