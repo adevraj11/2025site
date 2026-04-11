@@ -14,6 +14,10 @@ layout: page
 
 <h1>Awards/Fellowships</h1>
 
+<h4 class="western">Research Grant by RGU</h4>
+
+I have been awarded a seed money grant by Royal Global University to support my research project titled The Poetry of <em>Chandrakumar Agarwalla: A Digital Anthology</em>. With a grant amount of ₹1,00,000, this project aims to curate, digitise and critically present the poetic works of Chandrakumar Agarwalla, prominent Assamese poet and a leading voice of the <em>Jonaki</em> era, best known for his poem "Bon Kunwori", often regarded as the first Assamese Romantic poem.
+
 <h4 class="western">Sahapedia-UNESCO Fellowship, 2020</h4>
 
  <p> Details about Sahapedia and the fellowship can be found <a href="https://www.sahapedia.org/sahapedia-unesco-fellowship-2020">here</a>. As part of the fellowship, I authored two articles and conducted an interview, which can be read here - <a href="https://map.sahapedia.org/article/What-Assamese-Nationalism-Owes-to-Bishnuprasad-Rabha:-A-Journey-Through-His-Lyric-Poems-/11408#:~:text=Ayushman%20Devraj%20is%20an%20Assistant,on%20Post%2DSoviet%20immigration%20narratives.">article 1</a>, <a href="https://map.sahapedia.org/article/The-Making-of-a-Cultural-Icon:-Bishnuprasad-Rabha-in-Assamese-National-Consciousness/11406">article 2</a>, and <a href="https://map.sahapedia.org/article/In-Conversation-with-Prof.-Pradip-Jyoti-Mahanta:-Bishnuprasad-Rabha’s-Works-Exude-His-Revolutionary-Spirit-/11407">the interview.</a> </p>
