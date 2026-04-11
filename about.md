@@ -16,7 +16,7 @@ layout: page
 
 <h4 class="western"> 2. RGU Research Grant, 2026 </h4>
 
-I have been awarded a seed money grant by Royal Global University to support my research project titled The Poetry of <em>Chandrakumar Agarwalla: A Digital Anthology</em>. With a grant amount of ₹1,00,000, this project aims to curate, digitise and critically present the poetic works of Chandrakumar Agarwalla, prominent Assamese poet and a leading voice of the <em>Jonaki</em> era, best known for his poem "Bon Kunwori", often regarded as the first Assamese Romantic poem.
+I have been awarded a seed money grant by Royal Global University to support my research project titled The Poetry of <em>Chandrakumar Agarwalla: A Digital Anthology</em>. With a grant amount of ₹1,00,000, this project aims to curate, digitise and critically present the poetic works of Chandrakumar Agarwalla, a prominent Assamese poet and a leading voice of the <em>Jonaki</em> era, best known for his poem "Bon Kunwori", often regarded as the first Assamese Romantic poem.
 
 <h4 class="western">1. Sahapedia-UNESCO Fellowship, 2020</h4>
 
